@@ -10,7 +10,7 @@ public class Main {
 
         strings.add("first");
         strings.add("second");
-        strings.add("three");
+        strings.add("third");
 
         print(strings);
 
